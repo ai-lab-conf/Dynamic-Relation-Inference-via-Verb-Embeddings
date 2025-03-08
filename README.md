@@ -16,7 +16,7 @@
 
 ## Installation
    ```bash
-   git clone https://github.com/paper-14172/DRIVE.git
+   git clone https://github.com/ai-lab-conf/Dynamic-Relation-Inference-via-Verb-Embeddings.git
    cd DRIVE
    ```
 
